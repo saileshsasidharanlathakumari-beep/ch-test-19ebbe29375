@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    ".nodecreator": true,
+    "last-seed-sha256": true
+  }
+}
